@@ -1,0 +1,7 @@
+C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners.
+Our C tutorials will guide you to learn C programming one step at a time.
+Don't know how to learn C Programming, the right way? Enroll in our Interactive C Course for FREE.
+C Keywords and Identifiers
+In this tutorial, you will learn about keywords; reserved words in C programming that are part of the syntax. Also, you will learn about identifiers and how to name them.
+Character set
+A character set is a set of alphabets, letters and some special characters that are valid in C language.
